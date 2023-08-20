@@ -1,3 +1,3 @@
 # goth.lol
 
-a home for wayward skeletons
+how does this thing work
