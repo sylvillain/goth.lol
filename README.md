@@ -9,3 +9,9 @@ how does this thing work
 
 <img src="{{ "/pix/skeletons/skeletons420.gif" | prepend: site.baseurl | prepend: site.url}}" alt="skeleton dancing" />
 <img src="{{ "/pix/skeletons/source.gif" | prepend: site.baseurl | prepend: site.url}}" alt="skeleton dancing" />
+
+
+<div id='nc-webring'>
+  <script type="text/javascript" src="https://magentaskull.com/webring/magenta-webring.js">
+  
+  </script>
